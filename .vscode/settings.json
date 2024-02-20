@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": false,
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "livePreview.defaultPreviewPath": "/index.html"
+}
