@@ -1,12 +1,15 @@
 html{
     background-image: url(../Images/BG.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    height:100%;
+    background-size:auto;
+
+    
 }
 nav{
     background-color: black;
     display: flex;
+    position: sticky;
+    top: 0%;
     align-items: center;
     border-radius: 50px;
     font-family: 'Courier New', Courier, monospace;
@@ -25,7 +28,7 @@ nav{
     display: flex;
     width: 50%;
 }
-img{
+.logo-img{
     height: 50px;
     width: auto;
     margin: 2%;
